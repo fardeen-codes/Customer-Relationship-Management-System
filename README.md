@@ -1,0 +1,1 @@
+## CRM systems are important tools for businesses to manage their customer interactions, both with existing and potential clients. In this article, we will demonstrate how to create a CRM system using Node.js and Express. We will cover the key functionalities, prerequisites, approach, and steps required to create the project.
